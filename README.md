@@ -1,6 +1,6 @@
 - or create a new repository on the command line
 
-> echo "# discuss-git-repo" >> README.md
+- echo "# discuss-git-repo" >> README.md
 > git init
 > git add README.md
 > git commit -m "first commit"
